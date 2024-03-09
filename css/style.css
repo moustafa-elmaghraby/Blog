@@ -3,3 +3,47 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+
+.main-text-size{
+
+    font-size: 40px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.links-decoration a{
+
+    text-decoration: none;
+    color: rgb(43, 42, 42);
+    font-size: 20px;
+
+}
+
+.links-decoration a:hover{
+
+   transition: all 1s ease;
+    color: rgb(167, 160, 160);
+   
+
+}  
+
+
+.main-text-size-2{
+
+    font-size: 72px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.heading-text-italic {
+    font-style: italic;
+}
+
+.container-80{
+    width: 80%;
+    margin: auto;
+}
+.text-size-nav{
+    font-size: 18px;
+}
