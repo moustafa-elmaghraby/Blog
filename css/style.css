@@ -36,7 +36,7 @@ nav .links-decoration a{
     flex-wrap: nowrap;
     padding-bottom: 1rem;
     margin-top: -1px;
-    overflow-x: hidden;
+    overflow-x: auto;
     text-align: center;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
